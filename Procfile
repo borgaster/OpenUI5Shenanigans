@@ -1,1 +1,1 @@
-web: mongo
+web: meteor
