@@ -8,6 +8,9 @@
     "fibers": "^1.0.15",
     "meteor-node-stubs": "~0.2.0"
   },
+"engines":{
+"meteor":"1.4.1.2"
+},
   "version": "1.0.0",
   "description": "A small experiment with SAP's OpenUI5",
   "main": "index.js",
