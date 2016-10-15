@@ -8,13 +8,27 @@
     "fibers": "^1.0.15",
     "meteor-node-stubs": "~0.2.0"
   },
-"engines":{
-"meteor":"1.4.1.2"
-},
+  "engines": {
+    "meteor": "1.4.1.2"
+  },
   "version": "1.0.0",
   "description": "A small experiment with SAP's OpenUI5",
   "main": "index.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "Andre Bastos",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borgaster/OpenUI5Shenanigans.git"
+  },
+  "keywords": [
+    "OpenUI5",
+    "SAP",
+    "MongoDB",
+    "Meteor"
+  ],
+  "bugs": {
+    "url": "https://github.com/borgaster/OpenUI5Shenanigans/issues"
+  },
+  "homepage": "https://github.com/borgaster/OpenUI5Shenanigans#readme"
 }
