@@ -1,11 +1,11 @@
 {
   "name": "openui5shenanigans",
   "private": true,
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "fibers": "^1.0.15",
-    "meteor-node-stubs": "~0.2.0"
+    "meteor-node-stubs": "~0.2.0",
+    "twitter": "^1.4.0"
   },
   "engines": {
     "meteor": "1.4.1.2",
