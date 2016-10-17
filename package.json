@@ -11,7 +11,7 @@
   },
   "engines": {
     "meteor": "1.4.1.2",
-    "node": "6.2.2"
+    "node": "4.6.0"
   },
   "version": "1.0.0",
   "description": "A small experiment with SAP's OpenUI5",
