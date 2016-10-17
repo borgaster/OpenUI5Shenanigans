@@ -2,8 +2,6 @@
   "name": "openui5shenanigans",
   "private": true,
   "scripts": {
-    "start": "meteor run"
-
   },
   "dependencies": {
     "fibers": "^1.0.15",
