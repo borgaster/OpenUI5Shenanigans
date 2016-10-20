@@ -14,7 +14,7 @@
                                     growing="true" 
                                     growingThreshold="5"
                                     growingScrollToLoad="true">
-                    <myapp:CustomFeedListItem sender="{Author}" icon="{AuthorPicUrl}" senderPress="onSenderPress" iconPress="onIconPress" iconDensityAware="false" info="{Type}" timestamp="{createdAt}" text="{Text}"/>
+                    <myapp:CustomFeedListItem sender="{Author}" icon="{AuthorPicUrl}" iconDensityAware="false" info="{Type}" timestamp="{createdAt}" text="{Text}" senderPress="onSenderPress"/>
                 </List> 
             </l:Grid>
         </content>

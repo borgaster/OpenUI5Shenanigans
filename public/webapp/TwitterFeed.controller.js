@@ -17,9 +17,9 @@ sap.ui.define([
             console.log("clicked");
         },
         onSenderPress: function(oElem){
-            console.log(oElem.mParameters);
+            oElem.preventDefault();
+            window.open(oElem.getParameter("domRef").href, "_blank");
         }
-
     });
 
     return CController;
